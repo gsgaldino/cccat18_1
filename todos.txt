@@ -1,3 +1,5 @@
 1 - adicionado comando "dev" no package.json
 2 - instalando types para crypto, pg-promise e express
 3 - escrevendo testes de integração com axios
+4 - movento responsabilidade do banco de dados para fora do controller
+5 - refatorando código signup.ts
